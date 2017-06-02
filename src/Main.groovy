@@ -52,7 +52,7 @@
 //println "$first, $last"
 
 /*
-def pullError = "adb pull /sdcard/.mymoney/logs/mymoney_error.txt /Share/error/"
+def pullError = "adb pull error.txt /Share/error/"
 // 执行命令
 println pullError.execute().text
 */
